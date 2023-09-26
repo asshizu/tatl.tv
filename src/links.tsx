@@ -5,11 +5,7 @@ function Links() {
     <div>
       <nav>
         <a href="https://discord.gg/VkCxSmz7gu">
-          <img
-            width="70px"
-            src="images/636e0a6cc3c481a15a141738_icon_clyde_white_RGB.png"
-            alt="Discord Link"
-          />
+          <img width="70px" src="images/discord.png" alt="Discord Link" />
         </a>
 
         <a href="https://twitter.com/noaroggendorff">
