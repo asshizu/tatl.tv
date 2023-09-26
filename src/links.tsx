@@ -13,11 +13,11 @@ function Links() {
         </a>
 
         <a href="https://twitter.com/noaroggendorff">
-          <img width="105px" src="images/Twitter.png" alt="Twitter Link" />
+          <img width="105px" src="images/twitter.png" alt="Twitter Link" />
         </a>
 
         <a href="https://www.instagram.com/noaroggendorff/">
-          <img width="60px" src="images/Instagram.png" alt="Instagram Link" />
+          <img width="60px" src="images/instagram.png" alt="Instagram Link" />
         </a>
       </nav>
     </div>
