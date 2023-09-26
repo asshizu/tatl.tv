@@ -1,8 +1,9 @@
-import React from "react";
-import Welcome from "./welcome";
-import Links from "./links";
-import Gif from "./gif";
-import Timer from "./timer";
+import React from 'react';
+React
+import Welcome from './welcome';
+import Links from './links';
+import Gif from './gif';
+import Timer from './timer'
 
 function App() {
   return (

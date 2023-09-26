@@ -1,5 +1,5 @@
 import React from 'react';
-
+React
 function Gif() {
   return (
     <div>
